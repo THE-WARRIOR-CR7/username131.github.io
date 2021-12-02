@@ -1,0 +1,27 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border-radius:10px;
+    box-shadow: 20px 10px 30px grey;
+}
+h1{
+    color:white;
+}
+a {
+    font-size: 30px;
+    width: 400px;
+    background-color: turquoise;
+    color: black;
+    font-weight:bold;
+}
